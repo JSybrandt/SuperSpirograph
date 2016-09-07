@@ -1,5 +1,7 @@
+package pen;
+
 /**
  * Created by jsybran on 9/7/16.
  */
-public interface Drawable {
+public class Color {
 }
