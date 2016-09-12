@@ -1,84 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b248e148-bc37-4726-b33d-9092145ad800" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/scene/Format.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/allclasses-frame.html" afterPath="$PROJECT_DIR$/doc/allclasses-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/allclasses-noframe.html" afterPath="$PROJECT_DIR$/doc/allclasses-noframe.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/constant-values.html" afterPath="$PROJECT_DIR$/doc/constant-values.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/deprecated-list.html" afterPath="$PROJECT_DIR$/doc/deprecated-list.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/Geometry.html" afterPath="$PROJECT_DIR$/doc/geometry/Geometry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/GeometryPoint.html" afterPath="$PROJECT_DIR$/doc/geometry/GeometryPoint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/class-use/Geometry.html" afterPath="$PROJECT_DIR$/doc/geometry/class-use/Geometry.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/class-use/GeometryPoint.html" afterPath="$PROJECT_DIR$/doc/geometry/class-use/GeometryPoint.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/package-frame.html" afterPath="$PROJECT_DIR$/doc/geometry/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/package-summary.html" afterPath="$PROJECT_DIR$/doc/geometry/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/package-tree.html" afterPath="$PROJECT_DIR$/doc/geometry/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/package-use.html" afterPath="$PROJECT_DIR$/doc/geometry/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/Curve.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/Curve.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/Line.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/Line.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/TriangleHub.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/TriangleHub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/Curve.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/Curve.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/Line.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/Line.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/TriangleHub.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/class-use/TriangleHub.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/package-frame.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/package-summary.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/package-tree.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/trackshape/package-use.html" afterPath="$PROJECT_DIR$/doc/geometry/trackshape/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Barrel.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Barrel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Circle.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Circle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Diamond.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Diamond.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Egg.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Egg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Football.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Football.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Heart.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Heart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Shield.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Shield.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Star.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Star.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Teardrop.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Teardrop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/Trapezoid.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/Trapezoid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Barrel.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Barrel.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Circle.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Circle.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Diamond.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Diamond.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Egg.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Egg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Football.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Football.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Heart.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Heart.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Shield.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Shield.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Star.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Star.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Teardrop.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Teardrop.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Trapezoid.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/class-use/Trapezoid.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/package-frame.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/package-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/package-summary.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/package-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/package-tree.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/package-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/geometry/wheelshape/package-use.html" afterPath="$PROJECT_DIR$/doc/geometry/wheelshape/package-use.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/help-doc.html" afterPath="$PROJECT_DIR$/doc/help-doc.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-1.html" afterPath="$PROJECT_DIR$/doc/index-files/index-1.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-10.html" afterPath="$PROJECT_DIR$/doc/index-files/index-10.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-11.html" afterPath="$PROJECT_DIR$/doc/index-files/index-11.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-12.html" afterPath="$PROJECT_DIR$/doc/index-files/index-12.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-13.html" afterPath="$PROJECT_DIR$/doc/index-files/index-13.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-14.html" afterPath="$PROJECT_DIR$/doc/index-files/index-14.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-2.html" afterPath="$PROJECT_DIR$/doc/index-files/index-2.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-3.html" afterPath="$PROJECT_DIR$/doc/index-files/index-3.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-4.html" afterPath="$PROJECT_DIR$/doc/index-files/index-4.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-5.html" afterPath="$PROJECT_DIR$/doc/index-files/index-5.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-6.html" afterPath="$PROJECT_DIR$/doc/index-files/index-6.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-7.html" afterPath="$PROJECT_DIR$/doc/index-files/index-7.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-8.html" afterPath="$PROJECT_DIR$/doc/index-files/index-8.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index-files/index-9.html" afterPath="$PROJECT_DIR$/doc/index-files/index-9.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/index.html" afterPath="$PROJECT_DIR$/doc/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/overview-frame.html" afterPath="$PROJECT_DIR$/doc/overview-frame.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/overview-summary.html" afterPath="$PROJECT_DIR$/doc/overview-summary.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/overview-tree.html" afterPath="$PROJECT_DIR$/doc/overview-tree.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/package-list" afterPath="$PROJECT_DIR$/doc/package-list" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/doc/script.js" afterPath="$PROJECT_DIR$/doc/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Piece/GearedObject.java" afterPath="$PROJECT_DIR$/src/Piece/GearedObject.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Piece/track/TrackCap.java" afterPath="$PROJECT_DIR$/src/Piece/track/TrackCap.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Piece/track/TrackHub.java" afterPath="$PROJECT_DIR$/src/Piece/track/TrackHub.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Piece/track/TrackLayout.java" afterPath="$PROJECT_DIR$/src/Piece/track/TrackLayout.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geometry/wheelshape/Circle.java" afterPath="$PROJECT_DIR$/src/geometry/wheelshape/Circle.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/geometry/wheelshape/Trapezoid.java" afterPath="$PROJECT_DIR$/src/geometry/wheelshape/Trapezoid.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/scene/Canvas.java" afterPath="$PROJECT_DIR$/src/scene/Canvas.java" />
-    </list>
+    <list default="true" id="b248e148-bc37-4726-b33d-9092145ad800" name="Default" comment="" />
     <ignored path="SuperSpirograph.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -89,6 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
@@ -101,8 +25,8 @@
       <file leaf-file-name="Canvas.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scene/Canvas.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+            <state relative-caret-position="340">
+              <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,8 +37,8 @@
       <file leaf-file-name="Trapezoid.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geometry/wheelshape/Trapezoid.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+            <state relative-caret-position="187">
+              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -123,12 +47,9 @@
       <file leaf-file-name="Circle.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/geometry/wheelshape/Circle.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#311#312#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="221">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -136,7 +57,7 @@
       <file leaf-file-name="SceneElement.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scene/SceneElement.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
+            <state relative-caret-position="629">
               <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
               <folding />
             </state>
@@ -146,11 +67,9 @@
       <file leaf-file-name="GearedObject.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Piece/GearedObject.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="289">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -158,12 +77,9 @@
       <file leaf-file-name="TrackLayout.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Piece/track/TrackLayout.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding>
-                <element signature="e#289#290#0" expanded="true" />
-                <element signature="e#316#317#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="323">
+              <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -171,7 +87,7 @@
       <file leaf-file-name="Format.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/scene/Format.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="102">
               <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
               <folding />
             </state>
@@ -181,13 +97,9 @@
       <file leaf-file-name="TrackHub.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Piece/track/TrackHub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-              <folding>
-                <element signature="e#346#347#0" expanded="true" />
-                <element signature="e#372#373#0" expanded="true" />
-                <marker date="1473682181768" expanded="true" signature="63:127" ph="/**...*/" />
-              </folding>
+            <state relative-caret-position="119">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -195,7 +107,7 @@
       <file leaf-file-name="TriangleHub.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/geometry/trackshape/TriangleHub.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
+            <state relative-caret-position="255">
               <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
@@ -205,7 +117,7 @@
       <file leaf-file-name="Rack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Piece/Rack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
+            <state relative-caret-position="85">
               <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
               <folding />
             </state>
@@ -289,9 +201,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="-1" />
-    <option name="width" value="1680" />
-    <option name="height" value="1024" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -318,7 +231,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -504,6 +416,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -535,13 +448,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <option name="DEEP_LINK" value="" />
       <option name="ACTIVITY_CLASS" value="" />
       <method />
@@ -560,13 +468,8 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
       <option name="FORCE_STOP_RUNNING_APP" value="true" />
-      <option name="DEBUGGER_TYPE" value="Java" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
-      <Java />
-      <Profilers>
-        <option name="GAPID_DISABLE_PCS" value="false" />
-      </Profilers>
       <method />
     </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
@@ -828,7 +731,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="1680" height="1024" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -836,23 +739,23 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32540542" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32502708" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24642856" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2489339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
     <layout-to-restore>
@@ -1133,7 +1036,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Piece/Rack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="85">
           <caret line="5" column="103" selection-start-line="5" selection-start-column="103" selection-end-line="5" selection-end-column="103" />
           <folding />
         </state>
@@ -1141,7 +1044,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scene/SceneElement.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
+        <state relative-caret-position="629">
           <caret line="37" column="72" selection-start-line="37" selection-start-column="72" selection-end-line="37" selection-end-column="72" />
           <folding />
         </state>
@@ -1149,17 +1052,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Piece/GearedObject.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="43" selection-start-line="25" selection-start-column="43" selection-end-line="25" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="289">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geometry/trackshape/TriangleHub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
+        <state relative-caret-position="255">
           <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
         </state>
@@ -1167,30 +1068,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Piece/track/TrackHub.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="56" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
-          <folding>
-            <element signature="e#346#347#0" expanded="true" />
-            <element signature="e#372#373#0" expanded="true" />
-            <marker date="1473682181768" expanded="true" signature="63:127" ph="/**...*/" />
-          </folding>
+        <state relative-caret-position="119">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Piece/track/TrackLayout.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#316#317#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="323">
+          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scene/Format.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="102">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
           <folding />
         </state>
@@ -1198,8 +1092,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/scene/Canvas.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        <state relative-caret-position="340">
+          <caret line="46" column="0" selection-start-line="46" selection-start-column="0" selection-end-line="46" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1208,20 +1102,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geometry/wheelshape/Trapezoid.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+        <state relative-caret-position="187">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/geometry/wheelshape/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#311#312#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
