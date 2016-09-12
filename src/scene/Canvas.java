@@ -1,5 +1,8 @@
 package scene;
 
+import Piece.GearedObject;
+import Piece.Wheel;
+
 import java.util.List;
 
 /**
@@ -8,16 +11,13 @@ import java.util.List;
 public class Canvas extends SceneElement {
 
     /**
-     * Constucts a canvas.
+     * Constructs a canvas.
      * Note that the canvas acts as the root scene element.
      */
     public Canvas(){}
 
-    /**
-     * Adds a drawn spiral to the canvas
-     * @param spiral a spiral drawn from another source.
-     */
-    public void addSpiral(Spiral spiral){}
 
-    private List<Spiral> spirals;
+    public void draw(Wheel rotationPiece, GearedObject ImmobilePiece, float initialRotation){}
+
+
 }

@@ -5,7 +5,7 @@ package geometry.trackshape;
  */
 public class Line extends TrackGeometry{
     /**
-     * Constructs geometry for a new straight Piece.track segment. Each Line has a male end and female end.
+     * Constructs geometry for a new straight Piece.track segment. Each RackGeometry has a male end and female end.
      * @param length the length of the Piece.track
      */
     public Line(float length){}

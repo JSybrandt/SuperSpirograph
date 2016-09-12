@@ -1,7 +1,7 @@
 package Piece.track;
 
 import Piece.Spiralable;
-import pen.Pen;
+import scene.Pen;
 import scene.Spiral;
 import Piece.Wheel;
 

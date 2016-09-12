@@ -17,11 +17,11 @@ public class GeometryPoint extends Point {
 
     /**
      * Relative location of point on greater geometry. 0,0 is the center.
-     * @param radians is the
-     * @param magnitude
-     * @param isPolar
+     * @param angle is the angular component of the polar coordinate
+     * @param magnitude is the value component of the polar coordinate
+     * @param isPolar is a flag parameter, must be supplied to distinguish between the two default params
      */
-    public GeometryPoint(float radians, float magnitude, boolean isPolar){
+    public GeometryPoint(float angle, float magnitude, boolean isPolar){
         super(0,0);
     }
 

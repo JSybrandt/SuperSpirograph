@@ -49,4 +49,18 @@ public abstract class Geometry extends SceneElement {
      */
     public float getHeight(){return 0;}
 
+    private boolean isHollow;
+
+    /**
+     *
+     * @param h true if the center of the shape should be geared
+     */
+    public void setHollow(boolean h){isHollow = h;}
+
+    /**
+     *
+     * @return true if the center of the shape should be geared
+     */
+    public boolean isHollow() {return isHollow;}
+
 }

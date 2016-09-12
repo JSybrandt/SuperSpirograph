@@ -1,7 +1,15 @@
 package geometry.rackshape;
 
+import geometry.Geometry;
+
 /**
- * Common parent for all Rack shapes
+ * Defines the shape of a straight rack.
  */
-abstract class RackGeometry {
+public class RackGeometry extends Geometry{
+    /**
+     * Constructs geometry for a new straight rack
+     * @param length the length of the rack
+     */
+    public RackGeometry(float length){}
+    public float getLength(){return 0;}
 }

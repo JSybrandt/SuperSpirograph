@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * This class defines common behavior for wheel shapes.
  */
-abstract class WheelGeometry extends Geometry {
+public abstract class WheelGeometry extends Geometry {
     /**
      * Handles the location of penPoints on a wheel's shape. Transformations on the wheel's scale and roation in
      * the scene graph will also adjust the location of these pen points.
