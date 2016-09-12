@@ -1,18 +1,16 @@
 package Piece.track;
 
-import Piece.Spiralable;
-import scene.Pen;
-import scene.Spiral;
-import Piece.Wheel;
+import Piece.GearedObject;
 
 /**
  * This class managed a specific sequence of Piece.track segments.
  * Tracks are added male end first.
  * The Track Layout object can also generate spirals.
  */
-public class TrackLayout implements Spiralable {
+public class TrackLayout extends GearedObject {
 
     public TrackLayout() {
+        super(null);
     }
 
     /**
@@ -20,10 +18,6 @@ public class TrackLayout implements Spiralable {
      * @param newSegement the segment to be added. Must have a male end
      * @param oldSegment the segment with an open female end
      */
-    void addTrack(Track newSegement, Track oldSegment){}
+    void connect(Track newSegement, Track oldSegment){}
 
-    @Override
-    public Spiral generate(Wheel wheel, WheelHole hole, Pen pen) {
-        return null;
-    }
 }
