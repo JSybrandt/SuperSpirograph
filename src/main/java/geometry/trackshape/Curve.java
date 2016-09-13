@@ -1,7 +1,9 @@
 package geometry.trackshape;
 
 /**
- * A curved section of Piece.track is described by this class.
+ * A curved section of piece.track is described by this class.
+ * The curve can be of any radius or length (assuming that the curve does not overlap itself)
+ * and a male and female connection point is automatically placed at each end.
  */
 public class Curve extends TrackGeometry {
     /**

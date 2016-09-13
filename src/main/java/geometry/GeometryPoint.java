@@ -3,7 +3,11 @@ package geometry;
 import scene.Point;
 
 /**
- * Created by jsybran on 9/7/16.
+ * A GeometryPoint facilitates many interaction points in a spirograph. For example, the location a pen might be placed
+ * on a wheel, or the location two segments of track are connected can both be represented by GeometryPoints.
+ * Because the GeometryPoint inherits from SceneElement, they can be added to the overall scene graph by their encapsulating
+ * geometry classes. This allows them to scale, translate, and rotate along with their parent shape.
+ * This behavior facilitates spirograph generation.
  */
 public class GeometryPoint extends Point {
     /**

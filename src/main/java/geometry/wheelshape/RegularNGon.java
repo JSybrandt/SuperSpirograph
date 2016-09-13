@@ -4,6 +4,8 @@ import geometry.Geometry;
 
 /**
  * This class defines any shape which has n sides and n angles, where each angle is of the same value.
+ * This class is a very heavy lifter in the wheelshape family as any square, triangle, hexagon or other component can be
+ * specified with this geometry class. These shapes are used by both the RingGeometry class as well as the piece.wheel class
  */
 public class RegularNGon extends WheelGeometry {
 

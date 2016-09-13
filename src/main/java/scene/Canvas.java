@@ -1,14 +1,15 @@
 package scene;
 
-import Piece.GearedObject;
-import Piece.Wheel;
+import piece.GearedObject;
+import piece.Wheel;
 import geometry.GeometryPoint;
 
 import java.awt.*;
-import java.util.List;
 
 /**
- * The canvas object represents a peice of paper in the SuperSpirograph setup. This paper can be drawn on with Pens.
+ * The canvas object represents a piece of paper in the SuperSpirograph setup. This paper can be drawn on with Pens.
+ * Canvases act as the root scene element for spirograph designers, and therefor are the only scene element that can know
+ * the entire layout. They use this information to draw spirograph by simulating the rotation of a wheel on some immobile piece.
  */
 public class Canvas extends SceneElement {
 
@@ -23,14 +24,26 @@ public class Canvas extends SceneElement {
 
     /**
      * Draws a spiral on the canvas.
-     * @param rotationPiece the peice which will be rotated to create a spiral.
-     * @param ImmobilePiece the peice which will be placed on the canvas to define the spiral.
-     *                      Note, the Immobile peice must be a child scene element to the canvas.
-     * @param initialRotation the initial rotation in radians of the rotationPeice. Use this to do phase offsets.
+     * @param rotationPiece the piece which will be rotated to create a spiral.
+     * @param immobilePiece the piece which will be placed on the canvas to define the spiral.
+     *                      Note, the Immobile piece must be a child scene element to the canvas.
+     * @param initialRotation the initial rotation in radians of the rotationPiece. Use this to do phase offsets.
      * @param pen the pen properties to use in the spiral
-     * @param penHole the location on the rotation peice where the pen should be placed.
+     * @param penHole the location on the rotation piece where the pen should be placed. This must be a child of rotationPiece
+     *                in the scene graph.
      */
-    public void draw(Wheel rotationPiece, GearedObject ImmobilePiece, Pen pen, GeometryPoint penHole, float initialRotation){}
+    public void draw(Wheel rotationPiece, GearedObject immobilePiece, Pen pen, GeometryPoint penHole, float initialRotation){
+        rotationPiece.getSceneElement().rotate(initialRotation);
+        rotationPiece.rotateStep(immobilePiece);
+
+    }
+
+    /**
+     * Draws a single pixel at the specified point. Used by pens to draw shapes.
+     * @param point the location relative to the center of the canvas to draw a point.
+     * @param color the java.awt color to set this pixel to.
+     */
+    public void setPixel(Point point, Color color){}
 
     /**
      * Exports the current SuperSpirograph to an image file

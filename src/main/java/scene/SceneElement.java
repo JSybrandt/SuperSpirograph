@@ -4,7 +4,9 @@ import java.util.List;
 
 /**
  * Defines the operations necessary to place the item on a scenegraph.
- * The scenegraph itself starts with the root scene element and further elements
+ * The scenegraph itself starts with the root scene element and further elements.
+ * The scenegraph allows points to rotate attached to a shape, and allows relative coordinate systems to aid in
+ * Spirograph generationn.
  */
 public abstract class SceneElement {
     private List<SceneElement> children;

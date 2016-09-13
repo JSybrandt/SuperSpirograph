@@ -1,4 +1,4 @@
-package Piece.track;
+package piece.track;
 
 /**
  * This class represents a closing end section of track.

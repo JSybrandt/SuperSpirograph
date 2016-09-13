@@ -1,4 +1,4 @@
-package Piece;
+package piece;
 
 
 import geometry.Geometry;
@@ -6,6 +6,9 @@ import scene.SceneElement;
 
 /**
  * This class defines all of the properties shared by any element with gears.
+ * Geared objects are the overarching abstract class defining the functionality of any item with gears.
+ * These classes all rely on geometry objects to inform them about the perimeter and shape of their piece.
+ * This class, in turn, defines the gear count and placement.
  */
 public abstract class GearedObject {
 
@@ -27,5 +30,17 @@ public abstract class GearedObject {
      * @return returns the encapsulated scene element. Used to define layouts on the canvas.
      */
     public SceneElement getSceneElement(){return null;}
+
+    /**
+     * @param other the other geared object used to determine the gear ratio.
+     * @return the relative counts of each geared object. this / other
+     */
+    public float getGearRatio(GearedObject other){return 0;}
+
+    /**
+     *
+     * @return the number of gears on the piece.
+     */
+    public int getGearCount(){return 0;}
 
 }

@@ -1,6 +1,5 @@
-package Piece;
+package piece;
 
-import geometry.Geometry;
 import geometry.wheelshape.WheelGeometry;
 
 /**
@@ -15,4 +14,11 @@ public class Wheel extends GearedObject {
     public Wheel(WheelGeometry shape) {
         super(shape);
     }
+
+    /**
+     * Moves the current piece one timestamp forward when simulating spirograph generation.
+     * @param other is the peice being rotated around. The wheel will move around the provided piece in a manner determined
+     *              by their two gear ratios.
+     */
+    public void rotateStep(GearedObject other){}
 }

@@ -1,10 +1,10 @@
-package Piece;
+package piece;
 
-import geometry.Geometry;
 import geometry.ringshape.RingGeometry;
 
 /**
  * A ring object to contain gear and rotation information.
+ * Rings use ring geometry objects to define their shape. The
  */
 public class Ring extends GearedObject {
 

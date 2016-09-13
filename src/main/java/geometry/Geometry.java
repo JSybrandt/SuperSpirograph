@@ -4,6 +4,9 @@ import scene.SceneElement;
 
 /**
  * An abstract class used to house all generalized geometry logic.
+ * Geometry classes define the shapes, rotations, and spacial orientations of components found in  the piece package.
+ * These classes are supplemented by those in the piece package to allow for spirograph generation.
+ * Geometry may be solid or hollow. A hollow shape has a border but no center, these are used to define RingGeometry.
  */
 public abstract class Geometry extends SceneElement {
 

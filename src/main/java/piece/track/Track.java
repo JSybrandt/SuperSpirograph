@@ -1,10 +1,10 @@
-package Piece.track;
+package piece.track;
 
-import Piece.GearedObject;
+import piece.GearedObject;
 import geometry.Geometry;
 
 /**
- * The Piece.track class defines individual Piece.track elements and how they connect.
+ * The piece.track class defines individual piece.track elements and how they connect.
  */
 public abstract class Track extends GearedObject {
 

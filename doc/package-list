@@ -1,8 +1,8 @@
-Piece
-Piece.track
 geometry
 geometry.rackshape
 geometry.ringshape
 geometry.trackshape
 geometry.wheelshape
+piece
+piece.track
 scene
